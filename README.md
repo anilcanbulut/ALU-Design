@@ -8,7 +8,7 @@ that are used for choosing the feature of the ALU.
 
 I have created the truth table of each of the feature of the ALU. Here is the Truth table:
 <p align="left">
-  <img src="images/truth-table.png" width="150" title="How It Works?">
+  <img src="truth-table.png" width="150" title="How It Works?">
 </p>
 
 Let's choose s0 as 0000 (means 0) and s1 as 1111 (means 1). This corresponds to the substruction. So, only the result
