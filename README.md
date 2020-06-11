@@ -7,12 +7,9 @@ As it is said, the structure does not depend on the input size. At the beginning
 that are used for choosing the feature of the ALU. 
 
 I have created the truth table of each of the feature of the ALU. Here is the Truth table:
-
-s0   s1   Add   Substruct   Left_Shift   Right_Shift
-0    0    1         0           0             0
-0    1    0         1           0             0
-1    0    0         0           1             0
-1    1    0         0           0             1
+<p align="left">
+  <img src="images/truth-table.png" width="150" title="How It Works?">
+</p>
 
 Let's choose s0 as 0000 (means 0) and s1 as 1111 (means 1). This corresponds to the substruction. So, only the result
 that is coming from the substruction module will be used.
